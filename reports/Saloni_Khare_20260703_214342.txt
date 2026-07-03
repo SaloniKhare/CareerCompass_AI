@@ -1,0 +1,60 @@
+==============================================================
+            AI CAREER COUNSELLING - CAREER REPORT
+==============================================================
+Name        : Saloni Khare
+Degree      : B.Tech (CSE)
+CGPA        : 8.9
+Generated   : 2026-07-03 21:43
+
+--------------------------------------------------------------
+1. CAREER PREDICTION
+--------------------------------------------------------------
+Recommended Career : AI Engineer
+Confidence Score   : 43.1%
+
+--------------------------------------------------------------
+2. SKILL ANALYSIS
+--------------------------------------------------------------
+Skill Match        : 70.0%
+Existing Skills    :
+   - python
+   - machine learning
+   - deep learning
+   - tensorflow
+   - nlp
+   - neural networks
+   - data preprocessing
+Missing Skills     :
+   - pytorch
+   - computer vision
+   - mathematics
+
+--------------------------------------------------------------
+3. RECOMMENDED COURSES
+--------------------------------------------------------------
+   - Machine Learning Specialization (Coursera, Intermediate, 3 months) - https://www.coursera.org/specializations/machine-learning-introduction
+   - Deep Learning Specialization (Coursera, Advanced, 4 months) - https://www.coursera.org/specializations/deep-learning
+   - TensorFlow Developer Professional Certificate (Coursera, Intermediate, 2 months) - https://www.coursera.org/professional-certificates/tensorflow-in-practice
+   - Natural Language Processing with NLTK (Udemy, Intermediate, 20 hours) - https://www.udemy.com/topic/natural-language-processing/
+   - PyTorch for Deep Learning (Udemy, Advanced, 25 hours) - https://www.udemy.com/topic/pytorch/
+
+--------------------------------------------------------------
+4. INTERVIEW QUESTIONS
+--------------------------------------------------------------
+   - [Easy] What is the difference between supervised and unsupervised learning?
+   - [Easy] Explain what overfitting is and how you can prevent it.
+   - [Medium] How does backpropagation work in a neural network?
+   - [Medium] What are activation functions and why are ReLU and sigmoid used?
+   - [Hard] Explain the transformer architecture and the role of self-attention.
+   - [Hard] How would you deploy and monitor a deep learning model in production?
+
+--------------------------------------------------------------
+5. SUGGESTIONS
+--------------------------------------------------------------
+   - Your profile fits several careers. Add more specialized skills to strengthen a clear direction.
+   - Focus first on: pytorch, computer vision, mathematics to close your biggest gaps.
+   - You are well aligned with this career - start applying and practicing interview questions.
+
+==============================================================
+End of report - generated locally by the AI Career Counselling System
+==============================================================

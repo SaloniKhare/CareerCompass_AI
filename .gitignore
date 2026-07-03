@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# SQLite database (regenerated at runtime)
+database/career.db
+
+# Generated reports
+reports/*.txt
+reports/*.pdf
+
+# OS
+.DS_Store

@@ -1,0 +1,24 @@
+# ---------------------------------------------------------------------------
+# AI Career Counselling System - Python dependencies
+# Install everything with:  pip install -r requirements.txt
+# ---------------------------------------------------------------------------
+
+# Web UI
+streamlit==1.37.0
+
+# Data handling
+pandas
+numpy
+
+# Machine Learning
+scikit-learn
+
+# Visualization
+matplotlib
+
+# NLP
+nltk
+
+# Resume / PDF parsing
+pdfplumber
+PyPDF2

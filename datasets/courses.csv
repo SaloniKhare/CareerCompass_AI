@@ -1,0 +1,41 @@
+course_name,platform,career,difficulty,duration,link
+Machine Learning Specialization,Coursera,AI Engineer,Intermediate,3 months,https://www.coursera.org/specializations/machine-learning-introduction
+Deep Learning Specialization,Coursera,AI Engineer,Advanced,4 months,https://www.coursera.org/specializations/deep-learning
+TensorFlow Developer Professional Certificate,Coursera,AI Engineer,Intermediate,2 months,https://www.coursera.org/professional-certificates/tensorflow-in-practice
+Natural Language Processing with NLTK,Udemy,AI Engineer,Intermediate,20 hours,https://www.udemy.com/topic/natural-language-processing/
+PyTorch for Deep Learning,Udemy,AI Engineer,Advanced,25 hours,https://www.udemy.com/topic/pytorch/
+Data Science Professional Certificate,Coursera,Data Scientist,Intermediate,5 months,https://www.coursera.org/professional-certificates/ibm-data-science
+Statistics with Python,Coursera,Data Scientist,Beginner,2 months,https://www.coursera.org/specializations/statistics-with-python
+Applied Data Science with Python,Coursera,Data Scientist,Intermediate,4 months,https://www.coursera.org/specializations/data-science-python
+Feature Engineering for Machine Learning,Udemy,Data Scientist,Intermediate,15 hours,https://www.udemy.com/topic/feature-engineering/
+Data Analysis with Pandas and NumPy,Udemy,Data Scientist,Beginner,18 hours,https://www.udemy.com/topic/pandas/
+Google Data Analytics Certificate,Coursera,Data Analyst,Beginner,6 months,https://www.coursera.org/professional-certificates/google-data-analytics
+SQL for Data Analysis,Udacity,Data Analyst,Beginner,4 weeks,https://www.udacity.com/course/sql-for-data-analysis--ud198
+Data Visualization with Tableau,Coursera,Data Analyst,Beginner,2 months,https://www.coursera.org/specializations/data-visualization
+Microsoft Power BI Desktop for Business Intelligence,Udemy,Data Analyst,Intermediate,17 hours,https://www.udemy.com/course/microsoft-power-bi-desktop-for-business-intelligence/
+Excel Skills for Business,Coursera,Data Analyst,Beginner,4 months,https://www.coursera.org/specializations/excel
+Java Programming Masterclass,Udemy,Software Developer,Beginner,80 hours,https://www.udemy.com/course/java-the-complete-java-developer-course/
+Data Structures and Algorithms Specialization,Coursera,Software Developer,Intermediate,6 months,https://www.coursera.org/specializations/data-structures-algorithms
+Object Oriented Programming in Java,Coursera,Software Developer,Beginner,2 months,https://www.coursera.org/specializations/object-oriented-programming
+Git and GitHub Crash Course,Udemy,Software Developer,Beginner,6 hours,https://www.udemy.com/topic/git/
+Software Design and Architecture,Coursera,Software Developer,Advanced,4 months,https://www.coursera.org/specializations/software-design-architecture
+Django for Everybody,Coursera,Backend Developer,Intermediate,4 months,https://www.coursera.org/specializations/django
+REST APIs with Flask and Python,Udemy,Backend Developer,Intermediate,17 hours,https://www.udemy.com/course/rest-api-flask-and-python/
+Node.js The Complete Guide,Udemy,Backend Developer,Intermediate,40 hours,https://www.udemy.com/course/nodejs-the-complete-guide/
+Databases and SQL for Backend,Coursera,Backend Developer,Beginner,3 months,https://www.coursera.org/learn/intro-sql
+System Design Fundamentals,Educative,Backend Developer,Advanced,30 hours,https://www.educative.io/courses/grokking-the-system-design-interview
+The Complete JavaScript Course,Udemy,Frontend Developer,Beginner,69 hours,https://www.udemy.com/course/the-complete-javascript-course/
+React The Complete Guide,Udemy,Frontend Developer,Intermediate,48 hours,https://www.udemy.com/course/react-the-complete-guide-incl-redux/
+HTML CSS and Responsive Design,freeCodeCamp,Frontend Developer,Beginner,40 hours,https://www.freecodecamp.org/learn/2022/responsive-web-design/
+TypeScript for Professionals,Udemy,Frontend Developer,Intermediate,10 hours,https://www.udemy.com/topic/typescript/
+Web Accessibility by Google,Udacity,Frontend Developer,Beginner,2 weeks,https://www.udacity.com/course/web-accessibility--ud891
+Introduction to Cyber Security,Coursera,Cyber Security Analyst,Beginner,3 months,https://www.coursera.org/specializations/intro-cyber-security
+The Complete Ethical Hacking Course,Udemy,Cyber Security Analyst,Intermediate,25 hours,https://www.udemy.com/course/penetration-testing/
+Network Security Fundamentals,Coursera,Cyber Security Analyst,Intermediate,2 months,https://www.coursera.org/learn/network-security
+Linux for Security Analysts,Udemy,Cyber Security Analyst,Beginner,15 hours,https://www.udemy.com/topic/linux/
+Incident Response and Threat Hunting,Coursera,Cyber Security Analyst,Advanced,3 months,https://www.coursera.org/learn/incident-response
+AWS Certified Solutions Architect,Udemy,Cloud Engineer,Intermediate,27 hours,https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/
+Microsoft Azure Fundamentals AZ-900,Udemy,Cloud Engineer,Beginner,12 hours,https://www.udemy.com/course/az900-azure/
+Docker and Kubernetes The Complete Guide,Udemy,Cloud Engineer,Intermediate,22 hours,https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/
+DevOps on AWS,Coursera,Cloud Engineer,Intermediate,3 months,https://www.coursera.org/specializations/aws-devops
+Terraform Infrastructure as Code,Udemy,Cloud Engineer,Advanced,14 hours,https://www.udemy.com/topic/terraform/

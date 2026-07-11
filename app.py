@@ -31,6 +31,20 @@ st.set_page_config(
 def bootstrap() -> None:
     """One-time setup: create DB tables and seed shared session_state keys."""
     init_db()
+    if not model_is_ready():
+        try:
+            # Import your training function directly from your models module
+            from models.train_model import train_and_select
+            
+            # Show a brief status message on startup so users know it's initializing
+            st.info("Initializing application files and training the machine learning model. Please wait...")
+            
+            # Run the full train, evaluate, and save workflow
+            train_and_select()
+            
+            st.success("Initialization complete! Model trained successfully.")
+        except Exception as e:
+            st.error(f"Failed to automatically train the model on startup: {e}")
     # Shared state used across pages. We set defaults only once.
     st.session_state.setdefault("profile", None)
     st.session_state.setdefault("parsed_resume", None)
